@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-g*b9o4b!-9oa1lck&m372bc3z=q077)6=#6ez45#e-xvw=-ttf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['blog-farzaneh.liara.run']
 
 
 # Application definition

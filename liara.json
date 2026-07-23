@@ -1,0 +1,8 @@
+{
+  "disks": [
+    {
+      "name": "blog-disk",
+      "mountTo": "media"
+    }
+  ]
+}
