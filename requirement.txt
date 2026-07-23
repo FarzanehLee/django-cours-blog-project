@@ -2,6 +2,7 @@ asgiref==3.11.0
 Django==5.2.4
 gunicorn==26.0.0
 packaging==26.2
+psycopg2-binary==2.9.12
 setuptools==80.9.0
 sqlparse==0.5.4
 tzdata==2025.3
